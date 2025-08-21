@@ -37,4 +37,7 @@ My experiences have influenced my aspirations because certain clubs and experien
 
 ## Playlist
 
+https://open.spotify.com/playlist/2XYEHBpsSnNOOh2galBqsr 
+
 ## Image Collage
+

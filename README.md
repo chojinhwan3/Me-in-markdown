@@ -41,4 +41,5 @@ https://open.spotify.com/playlist/2XYEHBpsSnNOOh2galBqsr
 
 ## Image Collage
 
-![](a3p5k5.jpg)
+<img width="930" height="523" alt="image" src="https://github.com/user-attachments/assets/a14556c9-deb0-4e8e-a6b5-4fd949b24dce" />
+
